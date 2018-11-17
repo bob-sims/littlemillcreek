@@ -1,0 +1,39 @@
+baseurl = "https://example.org/"
+languageCode = "en-us"
+metadataformat = "yaml"
+title = "Little Mill Creek"
+theme = "hugo-alabaster-theme"
+
+disqusShortname = ""
+googleAnalytics = ""
+
+[params]
+	name = "Little Mill Creek"
+	description = "An extraordinary collection of related family biographies."
+
+	github_user   = "bob-sims"
+	github_repo   = "hugo-alabaster-theme"
+	github_banner = false
+
+	custom_css = ["custom.css"]
+	custom_js  = []
+
+	highlightjs = "css/highlight.css"
+	favicon = "favicon3.ico"
+
+[params.sidebar]
+	logo = "favicon3.ico"
+
+
+	github_button  = false
+	travis_button  = false
+	codecov_button = false
+	gratipay = ""
+
+	show_relations = true
+
+[params.footer]
+	copyright = "[Digitalcraftsman](https://github.com/digitalcraftsman)"
+	show_powered_by = true
+
+
