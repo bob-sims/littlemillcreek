@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:bob-sims/littlemillcreek.github.io.git
+	branch = master
